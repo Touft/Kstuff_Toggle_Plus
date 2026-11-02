@@ -81,3 +81,5 @@ Usage may cause kernel panics or system instability.
 Use at your own risk.
 
 ---
+
+## Based on https://github.com/EchoStretch/kstuff-toggle
